@@ -1,0 +1,6 @@
+.gemini/
+.agents/
+.system_generated/
+.git/
+Thumbs.db
+Desktop.ini
